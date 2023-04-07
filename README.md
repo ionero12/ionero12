@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### ✨ Stats
 <a href = "https://github.com/ionero12?tab=repositories">
   <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ionero12&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
-</a>
+</a><br>
 <a href = "https://github.com/ionero12?tab=repositories">
   <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ionero12&langs_count=10&count_private=true&theme=dracula&layout=compact&card_width=270" />
 </a>
