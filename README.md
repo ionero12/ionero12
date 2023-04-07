@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Find me on
+### 🎀 Find me on
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt = "Instagram" width = "30px" height = "30px" /> [alexandraionela9862](https://www.instagram.com/alexandraionela9862/)<br>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt = "LinkedIn" width = "30px" height = "30px" /> [Ionela Sau](https://www.linkedin.com/in/ionela-sau-068a70202/)<br>
 
@@ -25,10 +25,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/c/c-origin
 
 ### ✨ Stats
 <a href = "https://github.com/ionero12?tab=repositories">
-  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ionero12&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" align = "center" />
+  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ionero12&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" align = "left" />
 </a>
 <a href = "https://github.com/ionero12?tab=repositories">
-  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ionero12&langs_count=10&count_private=true&theme=tokyonight&layout=compact&card_width=270" align = "center" />
+  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ionero12&langs_count=10&count_private=true&theme=tokyonight&layout=compact&card_width=270" align = "left" />
 </a>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
