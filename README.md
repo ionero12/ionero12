@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/c/c-original.svg" />
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" />
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original.svg" />
 
-<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-plain.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" />
+
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
