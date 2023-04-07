@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-plain.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
