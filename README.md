@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img height=50 
 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/c/c-original.svg" /><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" /><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&theme=dracula" height=300 widht=400/><img 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=ionero12&layout=compact&theme=dracula" height=350 width=450/>
+<img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&theme=dracula" height=300 widht=300/><img 
+src="https://github-readme-stats.vercel.app/api/top-langs?username=ionero12&layout=compact&theme=dracula" height=350 width=300/>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
