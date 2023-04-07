@@ -15,16 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/c/c-original.svg" />
-<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" />
-<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original.svg" />
-
-<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
-<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" />
-
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+<img height=50 
+src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/c/c-original.svg" /><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" /><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ionero12&layout=compact&theme=dracula"/>
