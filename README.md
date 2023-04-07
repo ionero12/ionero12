@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/c/c-original.svg" /><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" /><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&theme=dracula" height=300 width=50%/>
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionero12&theme=radical&layout=compact&theme=dracula" height=300 width=50%/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&theme=dracula" width=50%/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionero12&theme=radical&layout=compact&theme=dracula" width=50%/>
 </div>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
