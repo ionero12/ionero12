@@ -25,7 +25,7 @@
   <code><img alt="JavaScript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
   <code><img alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
   </div>
-</div>
+</div><br>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ionero12&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ionero12" /></p><br>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&locale=en&theme=dracula" alt="ionero12" /></p>
