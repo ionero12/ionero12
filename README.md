@@ -14,6 +14,7 @@
   <code><img alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
   <code><img alt="MySql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
   <code><img alt="Php" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
+  <code><img alt="Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
   </div>
   
 <h2 font-weight="bold">Front End</h2>
@@ -27,6 +28,6 @@
   </div>
 </div><br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ionero12&theme=panda"/>"</p><br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ionero12&theme=holi "/>"</p><br>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&locale=en&theme=panda" alt="ionero12" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&locale=en&theme=holi " alt="ionero12" /></p>
