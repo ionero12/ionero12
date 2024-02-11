@@ -28,6 +28,6 @@
   </div>
 </div><br>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&theme=material-palenight/>"</p><br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionero12&hide_progress=true&theme=material-palenight/>"</p><br>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&locale=en&theme=material-palenight" alt="ionero12" /></p>
