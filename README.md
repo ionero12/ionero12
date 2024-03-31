@@ -13,7 +13,6 @@
   <code><img alt="C++" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
   <code><img alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
   <code><img alt="MySql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
-  <code><img alt="Php" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
   <code><img alt="Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
   </div>
   
@@ -28,6 +27,6 @@
   </div>
 </div><br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionero12&theme=material-palenight" alt="ionero12" /></p><br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionero12&theme=catppuccin_mocha " alt="ionero12" /></p><br>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&locale=en&theme=material-palenight" alt="ionero12" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&locale=en&theme=catppuccin_mocha" alt="ionero12" /></p>
