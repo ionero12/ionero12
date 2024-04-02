@@ -30,3 +30,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionero12&theme=tokyonight" alt="ionero12" /></p><br>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&locale=en&theme=tokyonight" alt="ionero12" /></p>
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
