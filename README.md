@@ -11,25 +11,21 @@
 <h2 font-weight="bold">BackEnd</h2>
   <div align="left">
   <code><img alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
+  <code><img alt="Flutter" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/></code>
   <code><img alt="Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-  <code><img alt="C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
   <code><img alt="C++" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img alt="C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
   <code><img alt="PHP" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
   </div>
   
   <h2 font-weight="bold">FrontEnd</h2>
   <div align="left">
-  <code><img alt="CSS5" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
-  <code><img alt="HTML" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
-  <code><img alt="JS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-  </div>
-
-<h2 font-weight="bold">Frameworks</h2>
-  <div align="left">
-  <code><img alt="Flutter" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/></code>
   <code><img alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
   <code><img alt="Flutter" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/></code>
-</div>
+  <code><img alt="HTML" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+  <code><img alt="CSS5" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
+  <code><img alt="JS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+  </div>
 
 <h2 font-weight="bold">Database</h2>
   <div align="left">
