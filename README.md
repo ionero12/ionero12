@@ -29,3 +29,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionero12&theme=prussian" alt="ionero12" /></p><br>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&locale=en&theme=prussian" alt="ionero12" /></p>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ionero12&label=Profile%20Views&color=10&icon=0&pretty=false" />
+</a>
