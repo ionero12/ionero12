@@ -36,5 +36,5 @@
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionero12&theme=panda" alt="ionero12" /></p><br>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&locale=en&theme=panda" alt="ionero12" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionero12&theme=holi" alt="ionero12" /></p><br>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ionero12&show_icons=true&locale=en&theme=holi" alt="ionero12" /></p>
